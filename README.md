@@ -8,7 +8,7 @@ We chose Eqi, a glacier located in Greenland. We first observed the facade of th
 
 NB: The links below provide access to the notebooks on [nbviewers](https://nbviewer.org/github/barthh/geo-data-eqi-glacier) for a better rendering.
 
-- Glacier facade (2018 - 2022) : [notebook](https://nbviewer.org/github/barthh/geo-data-eqi-glacier/blob/main/Facade-sentinel.ipynb) </br> Observing glacier melt with the [Sentinel-2 L2A][Sentinel doc] dataset. 
+- Glacier facade (2018 - 2022) : [notebook](https://nbviewer.org/github/barthh/geo-data-eqi-glacier/blob/main/Facade-sentinel.ipynb) </br> Observing glacier melt with the [Sentinel-2 L2A][Sentinel doc] dataset. This notebook isn't complete.
 
 - Glacier facade (1985 - 2022) : [notebook](https://nbviewer.org/github/barthh/geo-data-eqi-glacier/blob/main/Facade-Landsat.ipynb
 ) </br> Observation of glacier melt with the [Landsat-C2 L2][Landsat doc] dataset. Here is an overview of the results:
