@@ -1,10 +1,21 @@
-# Project : Analyzing Eqi glacier
+# About The Project : Analyzing the evolution of the Eqi glacier with Planetary Computer and Python
 
-Our objective is to observe a trace of global warming. What better way than to go to the North Pole and observe the evolution of the size of a glacier for that!
+Our objective is to observe a trace of global warming. What better way than to go to the North Pole and observe the evolution of the size of a glacier!
 
-We chose Eqi, a glacier located in Greenland. We first observed the facade of the glacier with the Sentinel2 dataset. Having been confronted with problems, we chose the Landsat dataset which allows us to have an observation which goes back more in time (1985 instead of 2018). To finish, we observed a small part located further back.
+We chose Eqi, a glacier located in Greenland. We first observed the facade of the glacier with the Sentinel2 dataset. Having been confronted with problems, we decided to move to the Landsat dataset which allows us to have an observation which goes back more in time (1985 instead of 2018). To finish, we analysed a small part located further back.
 
-## Notebook observations
+## Content
+
+Usefull content table :
+
+| Template name | Description |
+| ------------- | ----------- |
+| [Sentinel Study](./Facade-sentinel.ipynb/) | The first Analysis with Sentinel |
+| [Landsat Study](./Facade-Landsat.ipynb/) | The second Analysis with Landsat |
+| [Back of the glacier Study](./Back-glacier-part-sentinel.ipynb/) | The third Analysis on the back of the glacier (Sentinel) |
+| [Env file](./conda_env.yml) |  Contains the environment |
+
+# Notebook observations
 
 NB: The links below provide access to the notebooks on [nbviewers](https://nbviewer.org/github/barthh/geo-data-eqi-glacier) for a better rendering.
 
