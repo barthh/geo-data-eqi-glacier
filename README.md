@@ -24,7 +24,7 @@ NB: The links below provide access to the notebooks on [nbviewers](https://nbvie
 - Glacier facade (1985 - 2022) : [notebook](https://nbviewer.org/github/barthh/geo-data-eqi-glacier/blob/main/Facade-Landsat.ipynb
 ) </br> Observation of glacier melt with the [Landsat-C2 L2][Landsat doc] dataset.
 
-- Midland portion of the glacier (2018 - 2022) : [notebook](https://nbviewer.org/github/barthh/geo-data-eqi-glacier/blob/main/Facade-sentinel.ipynb) </br> Observation of a portion of the glacier with the Sentinel-2 L2A dataset.
+- Midland portion of the glacier (2018 - 2022) : [notebook](https://nbviewer.org/github/barthh/geo-data-eqi-glacier/blob/main/Back-glacier-part-sentinel.ipynb) </br> Observation of a portion of the glacier with the Sentinel-2 L2A dataset.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Sentinel doc]: https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/
